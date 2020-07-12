@@ -1,6 +1,6 @@
 # fast-universal
 
-This repository contains the source code for Fast-UAP: An Algorithm for Expediting Universal Adversarial Perturbation Generation Using the Orientation of Perturbation Vectors
+This repository contains the source code for Fast-UAP: An Algorithm for Expediting Universal Adversarial Perturbation Generation Using the Orientations of Perturbation Vectors
 
 `tensorflow-gpu` version we use:1.1.0
 
